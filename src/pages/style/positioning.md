@@ -27,7 +27,7 @@ related:
 | `fixed-full`, `absolute-full` |固定/绝对定位到屏幕的所有边 Fixed or absolute position to all screen edges |
 | `relative-position` | 设置 `position` 为 `relative` |
 
-## 对其
+## 对齐
 | CSS类名 | 描述 |
 | --- | --- |
 | `float-left` | 浮动到左边  |
